@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr {
+  border-top: 0.5em;
+  border-style: dotted none none;
+  color: lightgrey;
+  width: 5em;
+  margin: 3em auto;
+}
+
+h1 {
+  color: #5B7DB1;
+  line-height: 200%;
+  padding-top: 2em;
+  font-size: 4em;
+  margin: 0px auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  color: #5B7DB1;
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+  margin: 2em auto 0 auto;
+}
+
+h3 {
+  color: #5B7DB1;
+}
+
+a {
+  color: #5B7DB1;
+}
+
+.cloud_one {
+  position: absolute;
+  display: block;
+  right: 15em;
+}
+
+.cloud_two {
+  position: absolute;
+  display: block;
+  left: 15em;
+}
+
+.mountain {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+}
+
+.my_icon {
+  width: 15rem;
+  height: 15rem;
+  margin-bottom: 2em;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #DFF6FF;
+  position: relative;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.middle-container {
+  margin: 6.25em auto 2em auto;
+}
+
+.profile {
+  width: 50%;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.working_experience {
+  width: 50%;
+  margin: 4em auto;
+  text-align: left;
+  line-height: 2;
+  /* display: inline-block; */
+}
+
+.text_work_experience {
+  text-align: center;
+}
+
+.coding_icon {
+  width: 17em;
+  float: left;
+  margin: 2em 2em 0 0;
+}
+
+.second_table{
+  margin-inline-start: 15em;
+}
+.apps_develop_icon {
+  width: 17em;
+  float: left;
+  margin: 2em 2em 0 0;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.learn {
+  margin-bottom: 2em;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #11999e;
+  text-decoration: none;
+}
+
+.python_project {
+
+}
+
+.python_icon {
+  width: 12em;
+  height: auto;
+  margin: 2em auto;
+}
+
+.project_button {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  -webkit-box-shadow: 7px 7px 7px #a6a6a6;
+  -moz-box-shadow: 7px 7px 7px #a6a6a6;
+  box-shadow: 7px 7px 7px #a6a6a6;
+  font-family: 'Roboto', sans-serif;
+  color: #5B7DB1;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 1px;
+  text-decoration: none;
+  margin: 1em;
+}
+
+.project_button:hover {
+  background: #d9f0ff;
+  text-decoration: none;
+}
+
+/* .print_discription{
+  clear: right;
+} */
+.bottom-container {
+  background-color: #DFF6FF;
+  padding: 2em;
+}
+
+.footer-link:hover {
+  color: #E45826;
+}
