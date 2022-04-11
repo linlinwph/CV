@@ -36,8 +36,12 @@ hr {
 
 video{
   width:40%;
-  
 }
+
+.background{
+  width:40em;
+}
+
 h1 {
   color: black;
   /* position: absolute; */
